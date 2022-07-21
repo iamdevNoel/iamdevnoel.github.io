@@ -1,9 +1,9 @@
-# Portfólio Simples - de Gabriel Noberto
+# Portfólio Simples de Gabriel Noberto (iamdevnoel)
 
-Aqui ficam exercícios simples de cursos online que compõem meus estudos para que eu possa mostrar a amigos, à comunidade dev, e recrutadores.
+Aqui ficam exercícios simples de cursos online que compõem meus estudos, para que eu possa mostrar a amigos, à comunidade dev, e a recrutadores.
 
-<img align="left" height="400" src="assets/toonlinkstanding.png">
+<img align="left" height="300" src="assets/toonlinkstanding.png">
 
-## HTML5 e CSS3 - Curso Em Vídeo
+## Curso Em Vídeo - HTML5 e CSS3 
 
-* [Código dos exercícios](https://github.com/iamdevNoel/html-css)
+* [Código dos exercícios](https://github.com/iamdevNoel/tree/master/html-css/)
