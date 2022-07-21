@@ -6,4 +6,5 @@ Aqui ficam exercícios simples de cursos online que compõem meus estudos, para 
 
 ## Curso Em Vídeo - HTML5 e CSS3 
 
-* [Códigos dos exercícios e desafios](https://github.com/iamdevNoel/html-css/tree/master/)
+* [Visualizar exercícios e desafios finalizados](https://github.com/iamdevNoel/html-css/tree/master/index.html)
+* [Código dos exercícios e desafios](https://github.com/iamdevNoel/html-css/tree/master/)
