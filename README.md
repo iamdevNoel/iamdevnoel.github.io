@@ -1,4 +1,4 @@
-# Portfólio Simples de Gabriel Noberto (iamdevnoel)
+# Portifólio Simples de Gabriel Noberto (iamdevnoel)
 
 Aqui ficam exercícios simples de cursos online que compõem meus estudos, para que eu possa mostrar a amigos, à comunidade dev, e a recrutadores.
 
